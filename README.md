@@ -4,9 +4,10 @@ A object detection model for plastic bottles in water in TensorFlow (.pb) and Te
 
 Dataset used for training: https://github.com/m0-n/Plastic-Bottles-Dataset
 
-Recall: ~59.1% 
-Precision: ~56.5%
-at confidence threshold of 0.22
+
+<img src="https://i.imgur.com/fhZ6CaE.jpg">
+
+<img src="https://i.imgur.com/x1Sfuny.jpg">
 
 Results may vary.
 
